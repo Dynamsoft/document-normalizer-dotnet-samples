@@ -1,5 +1,7 @@
 # Dynamsoft Document Normalizer Samples - .NET Edition
 
+⚠️ **Notice:** This repository has been **archived**. For the latest examples utilizing document normalization features, please visit the **[Dynamsoft Capture Vision Samples](https://github.com/Dynamsoft/capture-vision-dotnet-samples)** repository. 🚀
+
 This repository contains multiple samples that demonstrate how to use the <a href="https://www.dynamsoft.com/document-normalizer/docs/core/introduction/?ver=latest" target="_blank">Dynamsoft Document Normalizer</a> .NET Edition.
 
 ## System Requirements
